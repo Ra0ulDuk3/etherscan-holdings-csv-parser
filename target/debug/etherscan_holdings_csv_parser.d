@@ -1,0 +1,1 @@
+/home/ra0x1duk3/security/learning_rust/etherscan_holdings_csv_parser/target/debug/etherscan_holdings_csv_parser: /home/ra0x1duk3/security/learning_rust/etherscan_holdings_csv_parser/src/main.rs
